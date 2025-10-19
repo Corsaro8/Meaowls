@@ -6,7 +6,7 @@ export function FamiliarProblemsSection() {
   const problems = [
   {
     icon: Clock,
-    title: "Sempre di corsa?",
+    title: "Sempre di corsaaaaaaaaaaaa?",
     description: "Trovare il tempo per andare a comprare il cibo per il tuo pet tra lavoro e impegni quotidiani.",
     gradient: "from-blue-100 to-indigo-50"
   },
