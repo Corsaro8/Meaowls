@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United States",
+        "iso_code": "US"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-125, 48], [-125, 25], [-67, 25], [-67, 48], [-125, 48]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canada",
+        "iso_code": "CA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-141, 70], [-141, 42], [-53, 42], [-53, 70], [-141, 70]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brazil",
+        "iso_code": "BR"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74, 5], [-74, -34], [-35, -34], [-35, 5], [-74, 5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United Kingdom",
+        "iso_code": "GB"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-11, 61], [-11, 50], [2, 50], [2, 61], [-11, 61]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "France",
+        "iso_code": "FR"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-5, 51], [-5, 42], [8, 42], [8, 51], [-5, 51]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germany",
+        "iso_code": "DE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [5, 56], [5, 47], [16, 47], [16, 56], [5, 56]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Italy",
+        "iso_code": "IT"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [6, 47], [6, 36], [19, 36], [19, 47], [6, 47]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spain",
+        "iso_code": "ES"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-10, 44], [-10, 35], [4, 35], [4, 44], [-10, 44]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russia",
+        "iso_code": "RU"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19, 82], [19, 41], [180, 41], [180, 82], [19, 82]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China",
+        "iso_code": "CN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [73, 54], [73, 18], [135, 18], [135, 54], [73, 54]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India",
+        "iso_code": "IN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [68, 37], [68, 6], [97, 6], [97, 37], [68, 37]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australia",
+        "iso_code": "AU"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [113, -10], [113, -44], [154, -44], [154, -10], [113, -10]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japan",
+        "iso_code": "JP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [129, 46], [129, 30], [146, 30], [146, 46], [129, 46]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argentina",
+        "iso_code": "AR"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73, -21], [-73, -55], [-53, -55], [-53, -21], [-73, -21]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Africa",
+        "iso_code": "ZA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [16, -22], [16, -35], [33, -35], [33, -22], [16, -22]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Egypt",
+        "iso_code": "EG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [25, 32], [25, 22], [37, 22], [37, 32], [25, 32]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kazakhstan",
+        "iso_code": "KZ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [46, 56], [46, 40], [87, 40], [87, 56], [46, 56]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico",
+        "iso_code": "MX"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-117, 33], [-117, 14], [-86, 14], [-86, 33], [-117, 33]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenland",
+        "iso_code": "GL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73, 84], [-73, 60], [-12, 60], [-12, 84], [-73, 84]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indonesia",
+        "iso_code": "ID"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [95, 6], [95, -11], [141, -11], [141, 6], [95, 6]
+        ]]
+      }
+    }
+  ]
+}

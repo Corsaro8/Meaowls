@@ -1,0 +1,22 @@
+CREATE TABLE `products` (
+	`id` integer PRIMARY KEY AUTOINCREMENT NOT NULL,
+	`name` text NOT NULL,
+	`price` real NOT NULL,
+	`weight` text NOT NULL,
+	`badge` text,
+	`rating` real NOT NULL,
+	`category` text NOT NULL,
+	`subcategory` text,
+	`animal` text NOT NULL,
+	`age` text,
+	`brand` text NOT NULL,
+	`breed` text,
+	`intolerances` text NOT NULL,
+	`tags` text NOT NULL,
+	`ingredients` text NOT NULL,
+	`benefits` text NOT NULL,
+	`contraindications` text,
+	`usage` text NOT NULL,
+	`created_at` text NOT NULL,
+	`updated_at` text NOT NULL
+);

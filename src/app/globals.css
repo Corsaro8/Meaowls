@@ -1,0 +1,276 @@
+/* Updated: 2025-10-19T10:07:49.156Z */
+/* Updated: 2025-10-18T22:53:13.502Z */
+/* Updated: 2025-10-17T17:05:33.969Z */
+/* Updated: 2025-10-16T14:39:02.816Z */
+/* Updated: 2025-10-16T08:54:33.995Z */
+/* Updated: 2025-10-14T15:39:02.719Z */
+/* Updated: 2025-10-14T15:38:40.705Z */
+/* Updated: 2025-10-14T13:31:41.099Z */
+/* Updated: 2025-10-13T20:33:41.064Z */
+/* Updated: 2025-10-13T17:21:42.969Z */
+/* Updated: 2025-10-13T08:30:45.796Z */
+/* Updated: 2025-10-10T08:45:08.200Z */
+/* Updated: 2025-10-09T17:53:02.466Z */
+/* Updated: 2025-10-09T17:51:29.517Z */
+/* Updated: 2025-10-09T17:38:33.069Z */
+/* Updated: 2025-10-09T17:36:08.977Z */
+/* Updated: 2025-10-09T16:48:04.309Z */
+/* Updated: 2025-10-08T18:01:15.063Z */
+/* Updated: 2025-10-08T17:11:00.503Z */
+/* Updated: 2025-10-08T13:12:46.628Z */
+/* Updated: 2025-10-08T12:13:30.373Z */
+/* Updated: 2025-10-08T08:40:02.731Z */
+/* Updated: 2025-10-07T19:56:12.637Z */
+/* Updated: 2025-10-07T19:55:31.040Z */
+/* Updated: 2025-10-07T19:54:23.122Z */
+/* Updated: 2025-10-07T19:53:47.359Z */
+/* Updated: 2025-10-07T19:53:15.251Z */
+/* Updated: 2025-10-07T19:52:51.664Z */
+/* Updated: 2025-10-07T13:10:27.052Z */
+/* Updated: 2025-10-06T09:24:20.209Z */
+/* Updated: 2025-10-05T15:27:56.538Z */
+/* Updated: 2025-10-04T13:12:56.645Z */
+/* Updated: 2025-10-04T13:11:49.012Z */
+/* Updated: 2025-10-04T12:38:31.970Z */
+/* Updated: 2025-10-04T12:33:16.174Z */
+/* Updated: 2025-10-04T12:29:01.847Z */
+/* Updated: 2025-10-03T14:01:47.006Z */
+/* Updated: 2025-10-03T13:57:26.952Z */
+/* Updated: 2025-10-03T13:51:18.342Z */
+/* Updated: 2025-10-03T13:45:11.379Z */
+/* Updated: 2025-10-03T13:36:50.658Z */
+/* Updated: 2025-10-03T13:32:25.976Z */
+/* Updated: 2025-10-03T13:11:51.272Z */
+/* Updated: 2025-10-03T10:22:55.442Z */
+/* Updated: 2025-10-03T10:08:40.453Z */
+/* Updated: 2025-10-03T09:22:11.017Z */
+/* Updated: 2025-10-02T19:18:00.632Z */
+/* Updated: 2025-10-02T16:31:57.821Z */
+/* Updated: 2025-10-02T12:30:37.026Z */
+/* Updated: 2025-10-02T12:17:12.996Z */
+/* Updated: 2025-10-02T11:54:50.867Z */
+/* Updated: 2025-10-02T11:29:56.987Z */
+/* Updated: 2025-10-02T10:29:11.867Z */
+/* Updated: 2025-10-02T09:21:54.085Z */
+/* Updated: 2025-10-02T09:18:16.244Z */
+/* Updated: 2025-10-02T08:53:32.914Z */
+/* Updated: 2025-10-01T18:09:27.220Z */
+/* Updated: 2025-10-01T16:18:55.841Z */
+/* Updated: 2025-10-01T15:50:47.506Z */
+/* Updated: 2025-10-01T12:30:14.065Z */
+/* Updated: 2025-10-01T12:06:17.770Z */
+/* Updated: 2025-10-01T11:20:37.427Z */
+/* Updated: 2025-10-01T11:20:26.121Z */
+/* Updated: 2025-10-01T11:18:14.469Z */
+/* Updated: 2025-10-01T11:02:44.036Z */
+/* Updated: 2025-10-01T10:40:42.262Z */
+/* Updated: 2025-10-01T10:35:02.923Z */
+/* Updated: 2025-10-01T10:28:46.228Z */
+/* Updated: 2025-09-29T18:21:36.406Z */
+/* Updated: 2025-09-29T18:21:33.418Z */
+/* Updated: 2025-09-29T17:05:57.802Z */
+/* Updated: 2025-09-29T15:00:19.062Z */
+/* Updated: 2025-09-29T12:49:57.223Z */
+/* Updated: 2025-09-24T13:50:30.819Z */
+/* Updated: 2025-09-21T16:56:58.908Z */
+/* Updated: 2025-09-21T16:23:26.516Z */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+@import 'tailwindcss';
+@import "tw-animate-css";
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-background: #ffffff;
+  --color-foreground: #2D3748;
+
+  --color-card: #ffffff;
+  --color-card-foreground: #2D3748;
+
+  --color-popover: #ffffff;
+  --color-popover-foreground: #2D3748;
+
+  --color-primary: #FF6B35;
+  --color-primary-foreground: #FFFFFF;
+
+  --color-secondary: #F7FAFC;
+  --color-secondary-foreground: #2D3748;
+
+  --color-muted: #F7FAFC;
+  --color-muted-foreground: #A0AEC0;
+
+  --color-accent: #FF6B35;
+  --color-accent-foreground: #FFFFFF;
+
+  --color-destructive: #ef4444;
+  --color-destructive-foreground: #fafafa;
+
+  --color-success: #48BB78;
+  --color-border: #E2E8F0;
+  --color-input: #E2E8F0;
+  --color-ring: #FF6B35;
+
+  --color-chart-1: #e67e22;
+  --color-chart-2: #2d8659;
+  --color-chart-3: #1e3a5f;
+  --color-chart-4: #f1c40f;
+  --color-chart-5: #e74c3c;
+
+  --color-sidebar: #f7f7f7;
+  --color-sidebar-foreground: #404040;
+  --color-sidebar-primary: #1a1a1a;
+  --color-sidebar-primary-foreground: #fafafa;
+  --color-sidebar-accent: #f0f0f0;
+  --color-sidebar-accent-foreground: #1a1a1a;
+  --color-sidebar-border: #d4d4d8;
+  --color-sidebar-ring: #3b82f6;
+
+  --radius-lg: 0.5rem;
+  --radius-md: calc(0.5rem - 2px);
+  --radius-sm: calc(0.5rem - 4px);
+
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+
+  @keyframes accordion-down {
+    from {
+      height: 0;
+    }
+    to {
+      height: var(--radix-accordion-content-height);
+    }
+  }
+  @keyframes accordion-up {
+    from {
+      height: var(--radix-accordion-content-height);
+    }
+    to {
+      height: 0;
+    }
+  }
+
+  --font-inter: "Inter", sans-serif;
+  --font-body: var(--font-inter);
+  --font-heading: var(--font-inter);
+}
+
+/*
+  The default border color has changed to `currentColor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: #e5e5e5;
+  }
+}
+
+@layer utilities {
+  .font-heading {
+    font-family: var(--font-heading);
+  }
+}
+
+@layer base {
+  :root {
+    --background: #ffffff;
+    --foreground: #2D3748;
+    --card: #ffffff;
+    --card-foreground: #2D3748;
+    --popover: #ffffff;
+    --popover-foreground: #2D3748;
+    --primary: #FF6B35;
+    --primary-foreground: #FFFFFF;
+    --secondary: #F7FAFC;
+    --secondary-foreground: #2D3748;
+    --muted: #F7FAFC;
+    --muted-foreground: #A0AEC0;
+    --accent: #FF6B35;
+    --accent-foreground: #FFFFFF;
+    --destructive: #ef4444;
+    --destructive-foreground: #fafafa;
+    --success: #48BB78;
+    --border: #E2E8F0;
+    --input: #E2E8F0;
+    --ring: #FF6B35;
+    --chart-1: #e67e22;
+    --chart-2: #2d8659;
+    --chart-3: #1e3a5f;
+    --chart-4: #f1c40f;
+    --chart-5: #e74c3c;
+    --radius: 0.5rem;
+    --sidebar-background: #f7f7f7;
+    --sidebar-foreground: #404040;
+    --sidebar-primary: #1a1a1a;
+    --sidebar-primary-foreground: #fafafa;
+    --sidebar-accent: #f0f0f0;
+    --sidebar-accent-foreground: #1a1a1a;
+    --sidebar-border: #d4d4d8;
+    --sidebar-ring: #3b82f6;
+  }
+
+  .dark {
+    --background: #232a35;
+    --foreground: #F7FAFC;
+    --card: #2D3748;
+    --card-foreground: #F7FAFC;
+    --popover: #2D3748;
+    --popover-foreground: #F7FAFC;
+    --primary: #FF6B35;
+    --primary-foreground: #FFFFFF;
+    --secondary: #4A5568;
+    --secondary-foreground: #F7FAFC;
+    --muted: #4A5568;
+    --muted-foreground: #CBD5E0;
+    --accent: #FF6B35;
+    --accent-foreground: #FFFFFF;
+    --destructive: #dc2626;
+    --destructive-foreground: #FFFFFF;
+    --success: #6EE7B7;
+    --border: #4A5568;
+    --input: #4A5568;
+    --ring: #FF6B35;
+    --chart-1: #3b82f6;
+    --chart-2: #10b981;
+    --chart-3: #f59e0b;
+    --chart-4: #8b5cf6;
+    --chart-5: #ef4444;
+    --sidebar-background: #1a1a1a;
+    --sidebar-foreground: #f0f0f0;
+    --sidebar-primary: #3b82f6;
+    --sidebar-primary-foreground: #ffffff;
+    --sidebar-accent: #292929;
+    --sidebar-accent-foreground: #f0f0f0;
+    --sidebar-border: #292929;
+    --sidebar-ring: #3b82f6;
+  }
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    color: var(--foreground);
+  }
+}
+
+/* Hide Next.js error overlay portal */
+nextjs-portal {
+  display: none !important;
+}

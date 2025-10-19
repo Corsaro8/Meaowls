@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1759400002184,
+      "tag": "0000_same_mephisto",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1759582534617,
+      "tag": "0001_uneven_nightmare",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1760031620430,
+      "tag": "0002_sticky_trauma",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1760727013137,
+      "tag": "0003_busy_skin",
+      "breakpoints": true
+    }
+  ]
+}
